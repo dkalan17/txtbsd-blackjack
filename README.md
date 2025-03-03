@@ -6,10 +6,7 @@ To je preprosta verzija igre Blackjack, napisana v Pythonu, kot del seminarske n
 
 ## Zahteve
 Za zagon igre potrebujete:
-- Python 3.x
-
-Dodatne knjižnice niso potrebne, saj igra uporablja le standardne Pythonove knjižnice.
-
+- Python 3
 
 ## Pravila igre
 - Igralec in delivec začneta z dvema kartama.
@@ -27,7 +24,7 @@ Glavne komponente programa:
 - `game.py`: glavni mehanizem igre
 
 ## Avtor
-**Ime:** [Domen Kalab]  
+**Ime:** [Domen Kalan]  
 **Datum:** [17.4.2024]
 
 
